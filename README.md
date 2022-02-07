@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @McG259
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on small projects
+- 📫 How to reach me: McGee259885@Gmail.com
